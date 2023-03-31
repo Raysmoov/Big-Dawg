@@ -1,0 +1,33 @@
+ul{
+    display: flex;
+    justify-content: space-between;
+
+}
+.Pups{
+    display: flex;
+
+}
+img {
+    height: 90vh;
+    width: 50vw; 
+}
+.Love{
+    margin-bottom: -20px;
+    display: flex;
+    flex-direction: column;
+}
+.Most{
+    font-size: x-large;
+}
+.Any{
+    margin-top: -50px;
+}
+.feet{
+    position: fixed;
+  left: 0;
+  bottom: 0;
+  width: 100%;
+  background-color: grey;
+  color: white;
+  justify-content: space-around;
+}
